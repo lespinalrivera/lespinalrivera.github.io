@@ -26,9 +26,9 @@ See also the list of [contributors](https://github.com/lespinalrivera.github.io/
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/lespinalrivera.github.io/Templates/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lespinalrivera.github.io/Templates/blob/master/LICENSE) file for details
 
-Basically: You don't need my permission to use any code here.
+Basically: You don't need my permission to use any code here. But I am not liable if stuff breaks
 
 # IMPORTANT NOTE
 
